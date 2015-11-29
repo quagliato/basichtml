@@ -8,7 +8,7 @@ html websites.
 * jquery-ui-1.11.2
 * jquery.easing-1.3
 * jquery.mask
-* font-awessome-4.3.0
+* font-awessome-4.5.0
 
 ## What functions are built in
 * A fully socialmedia-ready <head>, including open graph and google+ tags;
